@@ -1,16 +1,3 @@
 # gsocapp
 
-An app to show platform channels in flutter
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple character count app to demonstrate how to do different types of testing: unit test, widget test and integration test on flutter apps. The testing part is well documented if anyone wants to understand what is written and why.
